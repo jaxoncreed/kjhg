@@ -1,0 +1,26 @@
+{
+    "repoName": "kjhg",
+    "repoDescription": "kjhgfkjhg",
+    "framework": "sails",
+    "database": "mongo",
+    "schemas": [
+        {
+            "name": "okjhghjhg",
+            "attributes": []
+        },
+        {
+            "name": "uytrkjhg",
+            "attributes": [
+                {
+                    "key": "jhg",
+                    "autoIncrement": false,
+                    "unique": false,
+                    "primaryKey": false,
+                    "required": false,
+                    "collection": false,
+                    "model": "okjhghjhg"
+                }
+            ]
+        }
+    ]
+}
